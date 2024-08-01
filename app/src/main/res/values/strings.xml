@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">DatosDiarios</string>
+    <!--string for login button-->
+    <string name="login">Login</string>
+    <!--string for edittext hint in password-->
+    <string name="contraseña">Contraseña</string>
+    <!--string for edittext hint in email-->
+    <string name="usuario">Usuario</string>
+    <!--string for logout button-->
+    <string name="logout">Logout</string>
+
 </resources>
